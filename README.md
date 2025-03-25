@@ -44,4 +44,3 @@ To use this credit risk model:
 3. Input the customer data into the model to predict the probability of default (PD).
 4. Calculate the expected loss (EL) using the PD, LGD, and EAD values.
 5. Use the risk assessment insights to make informed financial decisions.
-
